@@ -1,0 +1,23 @@
+{
+  "module": "lag-fix-suite",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "routes": {
+      "enabled": true
+    },
+    "tweaks": {
+      "enabled": true
+    },
+    "monitor": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
