@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: lag-fix-suite, gaming, lag, delay, network, route, windows, ping, optimizer, cli, developer-tools, open-source, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+ping optimizer gaming lag delay network route windows gaming-ping-tool lag-fix-suite ping-optimizer-gaming windows portable prebuilt x64 free download
+related: ping, optimizer, gaming, lag, delay, network, route, windows
